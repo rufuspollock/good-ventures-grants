@@ -1,0 +1,17 @@
+resources:
+  - name: grants
+    path: grants.csv
+    schema:
+      fields:
+        - name: Grant
+          type: string
+        - name: Organization
+          type: string
+        - name: Main Topic
+          type: string
+        - name: Topics
+          type: string
+        - name: Date of Award
+          type: date
+        - name: Amount
+          type: number
