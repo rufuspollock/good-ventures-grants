@@ -13,3 +13,5 @@ Direct CSV link: https://www.goodventures.org/our-portfolio/grants-database/?dow
 [Cached copy of grants.csv](https://github.com/user-attachments/files/18094425/grants.csv)
 
 ![image](https://github.com/user-attachments/assets/2e83c6e9-8f9c-4f65-a06b-c5e66aaf0706)
+
+Note they also make some for-profit investments listed here https://www.goodventures.org/our-portfolio/other-investments/ but they aren't in the database
